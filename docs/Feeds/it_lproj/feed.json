@@ -1,0 +1,77 @@
+{
+    "documents": [
+        {
+            "previewImageURLs": [],
+            "bannerImageURL": "../../Content/ParrotEducation/it_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/ParrotEducation/it_lproj/StoreBanner_2x.png",
+            "overviewSubtitle": "Learn to code and pilot a Parrot drone in Swift!",
+            "description": "In this playground you will learn how to program and pilot your Parrot drone using the power of Swift code! You will learn how to takeoff, land, move in all directions, make acrobatic figures, and even control accessories.\n\nSupported drone models include: Rolling Spider, Airborne, and Mambo.",
+            "publishedDate": "2019-09-30T12:00:00+00:00",
+            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds-DEV/releases/download/1.4/Parrot.Education.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Editore:",
+                    "value": "Parrot Education"
+                },
+                {
+                    "name": "Versione:",
+                    "value": "1.4"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2019-09-30T12:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "English, German, French, Japanese, Simplified Chinese, and Latin American Spanish."
+                }
+            ],
+            "title": "Parrot Education",
+            "difficultyLevel": "intermediate",
+            "contentVersion": "1.4",
+            "lastUpdatedDate": "2019-09-30T12:00:00+00:00",
+            "contentIdentifier": "com.parroteducation.playground",
+            "sha512": "f2bc8de112ccfbf60b7c6391b89864bfcdf5e501edad1d37ab0fa7d29b168aad4fef6eb443778ca7cc69f2903ae9609543ee1738af679b55df960906b7c409e0"
+        },
+        {
+            "previewImageURLs": [],
+            "bannerImageURL": "../../Content/ParrotTemplate/it_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/ParrotTemplate/it_lproj/StoreBanner_2x.png",
+            "overviewSubtitle": "Learn to code and pilot a Parrot drone in Swift!",
+            "description": "This template is the starting point for your own drone project. You will be able to use all the commands you learned in the Parrot Education playground to program and pilot your Parrot drone.\n\nSupported drone models include: Rolling Spider, Airborne, and Mambo.",
+            "publishedDate": "2019-09-30T12:00:00+00:00",
+            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds-DEV/releases/download/1.4/Parrot.Template.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Editore:",
+                    "value": "Parrot Education"
+                },
+                {
+                    "name": "Versione:",
+                    "value": "1.4"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2019-09-30T12:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "English, German, French, Japanese, Simplified Chinese, and Latin American Spanish."
+                }
+            ],
+            "title": "Parrot Template",
+            "difficultyLevel": "intermediate",
+            "contentVersion": "1.4",
+            "lastUpdatedDate": "2019-09-30T12:00:00+00:00",
+            "contentIdentifier": "com.parroteducation.playground.template",
+            "sha512": "63f6b9950515381a70164fc798f6f5b691e00667e97f874fd7d7db78a208f80bab92debddab422b5b7e5258ee6364053b2cb62ad9ea244aa06d6d5b9d85ab9d6"
+        }
+    ],
+    "publisherName": "Parrot Education",
+    "title": "Parrot Education",
+    "formatVersion": "1.0",
+    "feedIdentifier": "com.parroteducation",
+    "contactURL": "mailto:education@parrot.com"
+}
