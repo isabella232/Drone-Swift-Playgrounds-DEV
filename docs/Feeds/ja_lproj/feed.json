@@ -32,7 +32,7 @@
             "contentVersion": "1.4",
             "lastUpdatedDate": "2019-09-30T12:00:00+00:00",
             "contentIdentifier": "com.parroteducation.playground",
-            "sha512": "f2bc8de112ccfbf60b7c6391b89864bfcdf5e501edad1d37ab0fa7d29b168aad4fef6eb443778ca7cc69f2903ae9609543ee1738af679b55df960906b7c409e0"
+            "sha512": "a3a4620ba27afb34d8543b8c82de3f33a261febe281af2461cc4edf547a1161bfd8e799216d4ae24cc5e4cc5f4bd80249603e1f4dbb62c36b88bd073b1e3a967"
         },
         {
             "previewImageURLs": [],
@@ -66,7 +66,7 @@
             "contentVersion": "1.4",
             "lastUpdatedDate": "2019-09-30T12:00:00+00:00",
             "contentIdentifier": "com.parroteducation.playground.template",
-            "sha512": "63f6b9950515381a70164fc798f6f5b691e00667e97f874fd7d7db78a208f80bab92debddab422b5b7e5258ee6364053b2cb62ad9ea244aa06d6d5b9d85ab9d6"
+            "sha512": "b32312cf53f58c6fb9852644a6122fb95cdf5f2c65106b4f71517280eaa47a2511597af086809c3a8b9006bf01127611b18f4601deb19edebc084b70e3f334ab"
         }
     ],
     "publisherName": "Parrot Education",
