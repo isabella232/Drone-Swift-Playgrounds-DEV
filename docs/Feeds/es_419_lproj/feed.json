@@ -20,7 +20,7 @@
                 {
                     "type": "date",
                     "name": "Publicado:",
-                    "value": "2019-13-10T12:00:00+00:00"
+                    "value": "2019-10-13T12:00:00+00:00"
                 },
                 {
                     "name": "Idiomas:",
@@ -30,7 +30,7 @@
             "title": "Parrot Education",
             "difficultyLevel": "intermediate",
             "contentVersion": "1.5",
-            "lastUpdatedDate": "2019-19-13T12:00:00+00:00",
+            "lastUpdatedDate": "2019-10-13T12:00:00+00:00",
             "contentIdentifier": "com.parroteducation.playground",
             "sha512": "05bf42af252c92487c98344696f88a9461227ca13e5d8355a5be0191ffc0296f81a48a3beb8b38ee67fa6bc7b04595704ebd74f1ee00f42dcac234842fc84169"
         },
@@ -54,7 +54,7 @@
                 {
                     "type": "date",
                     "name": "Publicado:",
-                    "value": "2019-13-10T12:00:00+00:00"
+                    "value": "2019-10-13T12:00:00+00:00"
                 },
                 {
                     "name": "Idiomas:",
@@ -64,7 +64,7 @@
             "title": "Plantilla de Parrot",
             "difficultyLevel": "intermediate",
             "contentVersion": "1.5",
-            "lastUpdatedDate": "2019-19-13T12:00:00+00:00",
+            "lastUpdatedDate": "2019-10-13T12:00:00+00:00",
             "contentIdentifier": "com.parroteducation.playground.template",
             "sha512": "fcbda15d0de5d26e589e42b03f576353a1a6c381a7874477926a5c12217760691245a4991af33df85c8418f761910a9197281a1286fdedb10b48f0d3397eb36e"
         }
